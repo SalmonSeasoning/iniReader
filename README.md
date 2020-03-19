@@ -1,5 +1,5 @@
 # iniReader
-A C++ application that loops through a .INI file and maps values.
+A C++ header that loops through a .INI file and maps values.
 
 This is just the first version, future updates will not be uploaded here
 

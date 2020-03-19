@@ -7,7 +7,7 @@ Here is an example.
 ```cpp
 try
 {
-  iniMap_t mappedINIFile = MapIniFile("config.ini");
+  iniMap_t mappedINIFile = *MapIniFile("config.ini");
 }
 catch (std::exception& e)
 {
